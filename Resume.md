@@ -33,7 +33,7 @@ environmental issues and transportation crashes.
 # Work Experience
 
 **Residential Assistant** | University of Connecticut, Storrs |
-(August 2024 -- Current)
+(August 2024 - Current)
 
 * Responsible for the overall management of the entire dormitory floor
 
@@ -43,7 +43,7 @@ community
 * In both dormitory buildings, completing tours of nine floors each
 
 **GIS Technician Intern** | Connecticut Transportation Safety
-Research Center, Storrs, Connecticut | (January 2024 -- Current)
+Research Center, Storrs, Connecticut | (January 2024 - Current)
 
 * Providing CTDOT with updated transportation information by digitizing
 sidewalks, curb ramps, and etc.
@@ -55,7 +55,7 @@ of sidewalks, curb ramps, and etc.
 imagery of 2023
 
 **Student Dining Hall Worker** | University of Connecticut, Storrs,
-Connecticut | (September 2023 -- May 2024)
+Connecticut | (September 2023 - May 2024)
 
 * Assisting with the cleaning of tables and dishes
 
@@ -64,7 +64,7 @@ Connecticut | (September 2023 -- May 2024)
 * Making sure students swipe their ID's before entering
 
 **Digital Navigator** | The Ferguson Library, Stamford, Connecticut
-| (June 2022 -- August 2023)
+| (June 2022 - August 2023)
 
 * Providing patrons with technical support, software support, and user
 assistance
