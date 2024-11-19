@@ -85,7 +85,8 @@ request records
 counties
 
 **University of Connecticut Geoscience and Geohazards in Taiwan**,
-Student (Winter 2025) * Performing field mapping of geological
+Student (Winter 2025) 
+* Performing field mapping of geological
 processes to better understand geohazards abroad
 
 # Interests
